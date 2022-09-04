@@ -1,0 +1,12 @@
+
+spring:
+  datasource:
+    # database username
+    username: admin
+    # username password
+    password: 9FXmXsTcPFydjZ4bLN6o
+    # JDBC URL
+    url: jdbc:postgresql://localhost:5432/book-jdbi
+    # JDBC driver name
+    driver-class-name: org.postgresql.Driver
+
