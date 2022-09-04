@@ -1,1 +1,1 @@
-# spring-boot-jdbi3
+# Spring Boot Rest API with Jdbi 3
