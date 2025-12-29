@@ -5,7 +5,7 @@ Spring Boot Rest API with Jdbi 3
 
 ## Tech Stack
 
-**Spring-boot**, **maven**, **java17**, **PostgreSQL**, **Jdbi3**
+**Spring-boot**, **maven**, **java21**, **PostgreSQL**, **Jdbi3**
 
 
 ## Run Locally
