@@ -51,24 +51,10 @@
             <artifactId>postgresql</artifactId>
         </dependency>
 
-        <!-- Jdbi 3 Core -->
-        <dependency>
-            <groupId>org.jdbi</groupId>
-            <artifactId>jdbi3-core</artifactId>
-            <version>${jdbi.version}</version>
-        </dependency>
-
         <!-- Jdbi 3 Spring Plugin -->
         <dependency>
             <groupId>org.jdbi</groupId>
             <artifactId>jdbi3-spring</artifactId>
-            <version>${jdbi.version}</version>
-        </dependency>
-
-        <!-- Jdbi 3 SQL Object extension  -->
-        <dependency>
-            <groupId>org.jdbi</groupId>
-            <artifactId>jdbi3-sqlobject</artifactId>
             <version>${jdbi.version}</version>
         </dependency>
 

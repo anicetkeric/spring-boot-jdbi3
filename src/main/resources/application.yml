@@ -2,11 +2,14 @@
 spring:
   datasource:
     # database username
-    username: admin
+    username: xxx
     # username password
-    password: 9FXmXsTcPFydjZ4bLN6o
+    password: xxx
     # JDBC URL
-    url: jdbc:postgresql://localhost:5432/book-jdbi
+    url: jdbc:postgresql://localhost:5432/bookdb
     # JDBC driver name
     driver-class-name: org.postgresql.Driver
 
+logging:
+  level:
+    org.jdbi: DEBUG
